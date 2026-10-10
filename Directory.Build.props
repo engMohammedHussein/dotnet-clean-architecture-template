@@ -6,5 +6,6 @@
     <LangVersion>latest</LangVersion>
     <GenerateDocumentationFile>false</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);CS1591</NoWarn>
+    <DebugType>embedded</DebugType>
   </PropertyGroup>
 </Project>
